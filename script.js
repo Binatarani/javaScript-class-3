@@ -123,11 +123,11 @@
 
 // Operator precedenc
 
-// //B O M D A S
+// //B O D M A S
 // B = breaket();
 // O = Exponentiation (**);
-// M = Multiplication (*);
 // D = Division (/);
+// M = Multiplication (*);
 // A =  Addition (+);
 // S = Subtraction (-);
 
